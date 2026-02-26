@@ -63,14 +63,15 @@ button {
   font-size: 20px;
   text-transform: uppercase;
   cursor: pointer;
+  border-radius: 14px;
 }
 button:hover {
   background-color: #bea060;
   transition: 0.7s;
 }
 .btn {
-  width: 97%;
-  background-color: #bea060;
+  width: 96%;
+  background-color: #bea060;  
 }
 .header-left-side h3 {
   color: #c1bfbf;
@@ -79,7 +80,8 @@ button:hover {
   font-weight: 300;
 }
 .header-right-side img {
-  width: 670px;
+  width: 550px;
   height: 884px;
-  margin-top: 15%;
+  margin-top: 10%;
+  padding-right: 50px;
 }
